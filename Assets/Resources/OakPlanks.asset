@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68d75da3cf8fff54ba41523e8b6c75cc, type: 3}
+  m_Name: OakPlanks
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: 
+  icon: {fileID: 21300000, guid: c5c4be7cbe558ed448df7a976455e766, type: 3}
+  itemType: 3
+  tier: 0
+  blockType: 23
+  weaponPrefab: {fileID: 0}
+  damage: 0
+  mineSpeed: 0
+  maxStack: 64
+  itemID: OakPlanks
+  isBlock: 1
